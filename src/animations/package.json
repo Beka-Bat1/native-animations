@@ -1,0 +1,6 @@
+{
+    "name": "animations",
+    "devDependencies": {
+        "@types/clamp": "^1.0.0"
+    }
+}

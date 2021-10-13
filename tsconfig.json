@@ -1,6 +1,9 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
-    "strict": true
+    "jsx": "react",
+    "strict": true,
+    // fixes import react error
+    "allowSyntheticDefaultImports": true
   }
 }
